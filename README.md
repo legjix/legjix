@@ -1,10 +1,10 @@
-<h1 align="center">Olá meu nome é Letícia, e sou universítaria de ADS!💚💻💜</h1>
+<h1 align="center">Hii my name is Letícia, and I am a university student of ADS!!💚💻💜</h1>
 
-🌈 <strong align="center">Sou uma dev Front-End apaixonada por UX/UI, e com muito interesse por cibersegurança.</strong>
+🌈 <strong align="center">I'm a Front-End dev passionate about UX/UI, and very interested in cybersecurity.</strong>
 
-•🌼 Tenho 18 anos, moro na zona sul de São Paulo. Desde sempre fui obcecada pelo mundo da tecnologia, quando acabei o ensino médio em 2021 descobri que minha paixão era T.I! Entrei na faculdade no <strong>curso de Análise e Desenvolvimento de Sistemas</strong>, no ensino EAD por me identificar melhor, e desde então não paro de estudar. Sempre estou fazendo cursos e procurando por aprendizado, além de estudar línguas estrangeiras como inglês e o basiquinho de francês, estou em constante ansiedade para os meus planos futuros profissionais.
+•🌼 I'm 18 years old, and i live in the south of São Paulo. I've always been obsessed with the world of technology, when I finished high school in 2021 I found out I was in love with T.I! I entered college in the <strong>System Analysis and Development course</strong> in EAD teaching because i identified myself better, and since then I haven't stopped studying. I am always taking courses and learning for the sake of learning, in addition to studying foreign languages ​​such as English and basic French, I am in constant search for my professional plans.
 
-•🍭 <strong>Se conecte comigo:</strong>
+•🍭 <strong>Connect with me:</strong>
 
   <a href="https://www.linkedin.com/in/let%C3%ADciaalvessilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:let.asilvadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -13,7 +13,7 @@
     
 ##
 
-•📚<strong>Tecnologias e Ferramentas que estou aprendendo:</strong>
+•📚<strong>Technologies and Tools I am learning:</strong>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Let-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -40,16 +40,16 @@
   <img align="center" alt="Let-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="right" alt="leg gif" width="300" src="https://media.giphy.com/media/KAdHduuEQEddH4jqHC/giphy.gif">
 </div>
-  ##
-  
-  •🎸<strong>Informações Aleátorias sobre mim:</strong>
-  - Como costumo falar pros meus amigos tenho a doença de ser cinéfila, sou extremamente ligada a séries e filmes sejam eles considerados como nerdolas, e como filmes intelectuais, amo filmes antigos e ver a história de todos os atores possíveis, tenho uma grande admiração pela Marilyn Monroe.
-  - Além de assistir filmes amo ler e fazer exercícios fisicos, apesar de ter parado a alguns meses para cortar gastos em casa.
-  - Meu maior sonho é atingir minha meta profissional e assim viajar para todos os lugares que eu puder, para conhecer novas culturas.
-  - Amo animais e tenho muitos doguinhos.
-  - AMOOO música e sei tocar guitarra, e um pouquinho de outros instrumentos. 
+ 
+ <br>
+  •🎸<strong>Random information about me:</strong>
+  <br>- As I usually tell my friends, I have the disease of being a cinephile I am extremely attached to series and movies, whether they are considered nerds, and intellectual movies, I love old movies and seeing the history of all the actors, I have great admiration for Marilyn Monroe.<br>
+  - In addition to watching movies, I love reading and working out at the gym, despite having gone out to cut costs at home.<br>
+  - My biggest dream is to achieve my professional goal and thus travel to all the places I can, to get to know new cultures.<br>
+  - I love animals and I have many dogs.<br>
+  - I LOVE music and I can play the electric guitar, and a little bit of other instruments.
   <br><br>
-  <strong>⭐E POR ÚLTIMO sou uma dev que não gosta de café não me pergunte como sobrevivo, porém tento.☕ </strong>
+  <strong>⭐AND LAST I'm a dev who doesn't like coffee don't ask me how I survive, but I try.☕ </strong>
   
   <img align="left" alt="leg gif" width="200" src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif">
 
