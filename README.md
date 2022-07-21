@@ -1,6 +1,6 @@
 <h1 align="center">Hii my name is Letícia, and I am a university student of ADS!! <br>💚💻💜</h1>
 
-🌈 <strong align="center">I'm a Front-End dev passionate about UX/UI, and very interested in cybersecurity.</strong>
+🌈 <strong align="center">I'm a Front-End Developer passionate about UX/UI, and very interested in cybersecurity.</strong>
 
 •🌼 I'm 18 years old, and i live in the south of São Paulo. I've always been obsessed with the world of technology, when I finished high school in 2021 I found out I was in love with T.I! I entered college in the <strong>System Analysis and Development course</strong> in EAD teaching because i identified myself better, and since then I haven't stopped studying. I am always taking courses and learning for the sake of learning, in addition to studying foreign languages ​​such as English and basic French, I am in constant search for my professional plans.
 
