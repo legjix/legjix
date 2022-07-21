@@ -39,7 +39,7 @@
   <img align="center" alt="Let-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Let-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="right" alt="leg gif" width="300" src="https://media.giphy.com/media/KAdHduuEQEddH4jqHC/giphy.gif">
-
+</div>
   ##
   
   •🎸<strong>Informações Aleátorias sobre mim:</strong>
