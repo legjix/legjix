@@ -1,4 +1,4 @@
-<h1 align="center">Hii my name is Letícia, and I am a university student of ADS!!💚💻💜</h1>
+<h1 align="center">Hii my name is Letícia, and I am a university student of ADS!! <br>💚💻💜</h1>
 
 🌈 <strong align="center">I'm a Front-End dev passionate about UX/UI, and very interested in cybersecurity.</strong>
 
