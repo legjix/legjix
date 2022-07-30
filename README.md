@@ -1,4 +1,13 @@
-<h1 align="center">Hii my name is Letícia, and i am a university student of technology from Brazil!!! <br>💚💻💜</h1>
+![céu](https://imgur.com/JpYkamp.png)
+
+<h1 align="center">Welcome to my github! 💚💻💜</h1>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=60F768&lines=+Hii+my+name+is+Let%C3%ADcia!;I'm+a+technology+university+from+Brazil)](https://git.io/typing-svg)
+</div>  
+
+##
 
 🌈 <strong align="center">I'm a Front-End Developer passionate about UX/UI, and very interested in cybersecurity.</strong>
 
