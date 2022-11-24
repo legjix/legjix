@@ -55,7 +55,7 @@
   <br><br>
   <strong>⭐AND LAST I'm a dev who doesn't like coffee don't ask me how I survive, but I try.☕ </strong>
   
-  <img align="left" alt="leg gif" width="200" src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif">
+  <img align="left" alt="leg gif" width="200" src="https://media.giphy.com/media/uvr7xDc0DWjBxlgKAS/giphy.gif"> 
 
   ##
   
