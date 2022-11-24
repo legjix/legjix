@@ -42,7 +42,7 @@
   <img align="center" alt="Let-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="Let-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Let-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="right" alt="leg gif" width="300" src="https://media.giphy.com/media/KAdHduuEQEddH4jqHC/giphy.gif">
+  <img align="right" alt="leg gif" width="300" src="https://media.giphy.com/media/uvr7xDc0DWjBxlgKAS/giphy.gif">
 </div>
  
  <br>
@@ -55,7 +55,7 @@
   <br><br>
   <strong>⭐AND LAST I'm a dev who doesn't like coffee don't ask me how I survive, but I try.☕ </strong>
   
-  <img align="left" alt="leg gif" width="200" src="https://media.giphy.com/media/uvr7xDc0DWjBxlgKAS/giphy.gif"> 
+  <img align="left" alt="leg gif" width="200" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif"> 
 
   ##
   
